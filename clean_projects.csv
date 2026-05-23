@@ -1,0 +1,501 @@
+freelancer_id,name,email,country,primary_skill,hourly_rate_usd,years_experience,join_date,rating_avg,total_earnings_usd,profile_complete,verified
+FL00001,michael khan,michael.khan70@gmail.com,egypt,javascript,12.0,7.0,2023-04-05,3.6,42353.0,1,1
+FL00002,fatima müller,fatima.müller59@outlook.com,australia,ui/ux design,15.0,3.0,2021-10-08,4.1,76361.0,0,0
+FL00003,james müller,james.müller88@outlook.com,uk,data analysis,60.0,11.0,2018-12-26,4.0,8914.0,0,1
+FL00004,omar yamamoto,omar.yamamoto72@outlook.com,mexico,wordpress,150.0,15.0,2016-08-08,4.8,42438.0,0,1
+FL00005,natasha patel,natasha.patel99@outlook.com,uk,wordpress,60.0,0.0,2022-08-24,4.5,133580.0,1,1
+FL00006,juan singh,juan.singh40@gmail.com,brazil,graphic design,75.0,10.0,2016-04-03,4.4,144627.0,0,1
+FL00007,sergiy garcia,sergiy.garcia57@outlook.com,bangladesh,devops,75.0,7.32,2019-06-23,4.0,87119.0,1,1
+FL00008,michael silva,michael.silva56@yahoo.com,bangladesh,video editing,20.0,15.0,2019-07-26,4.1,50362.0,1,0
+FL00009,priya johansson,priya.johansson31@gmail.com,canada,node.js,78.45,3.0,2015-03-02,3.8,146191.0,0,0
+FL00010,chen nguyen,chen.nguyen68@gmail.com,bangladesh,python,100.0,1.0,2015-08-23,4.8,10918.0,0,0
+FL00011,michael brown,michael.brown59@yahoo.com,nan,ui/ux design,30.0,10.0,2019-06-10,3.9,75207.0,0,1
+FL00012,nia patel,nia.patel96@outlook.com,nigeria,graphic design,120.0,9.0,2016-07-04,4.0,111537.0,1,1
+FL00013,carlos petrov,carlos.petrov89@gmail.com,pakistan,flutter,30.0,14.0,2021-04-16,4.3,27446.0,0,0
+FL00014,bjorn petrov,bjorn.petrov53@outlook.com,germany,react,25.0,5.0,2015-04-12,3.8,80503.0,0,0
+FL00015,yuki brown,yuki.brown69@yahoo.com,egypt,node.js,50.0,2.0,2018-12-09,3.7,101476.0,1,1
+FL00016,fatima petrov,fatima.petrov80@yahoo.com,uk,python,75.0,6.0,2015-10-14,4.6,99890.0,1,1
+FL00017,zara mbeki,zara.mbeki57@outlook.com,uk,video editing,12.0,6.0,2021-10-20,4.3,59388.0,1,1
+FL00018,sergiy okafor,sergiy.okafor89@gmail.com,canada,wordpress,15.0,6.0,2020-07-17,3.2,32313.0,0,0
+FL00019,ivan rossi,ivan.rossi21@outlook.com,brazil,wordpress,40.0,14.0,2019-10-14,3.9,142097.0,1,0
+FL00020,ali johansson,ali.johansson54@yahoo.com,pakistan,machine learning,25.0,7.32,2020-03-23,3.6,110343.0,1,1
+FL00021,juan singh,juan.singh52@outlook.com,mexico,nan,60.0,7.32,2019-05-12,4.0,99879.0,0,1
+FL00022,sarah sharma,sarah.sharma45@gmail.com,mexico,seo,30.0,7.32,2020-04-10,4.4,30486.0,1,0
+FL00023,yuki ahmed,yuki.ahmed40@outlook.com,australia,ui/ux design,20.0,3.0,2018-06-28,4.4,148855.0,1,1
+FL00024,lena petrov,lena.petrov82@yahoo.com,ukraine,javascript,75.0,0.0,2020-06-30,3.5,70858.0,1,1
+FL00025,ali singh,ali.singh28@yahoo.com,canada,node.js,78.45,12.0,2020-07-17,3.2,129165.0,1,1
+FL00026,juan johansson,juan.johansson71@yahoo.com,uk,machine learning,25.0,11.0,2020-12-14,4.1,127429.0,0,1
+FL00027,james garcia,james.garcia6@gmail.com,usa,php,25.0,11.0,2015-02-27,4.1,125733.0,1,0
+FL00028,amara mbeki,amara.mbeki72@yahoo.com,nigeria,flutter,120.0,4.0,2018-05-29,4.1,26513.0,1,0
+FL00029,james singh,james.singh38@gmail.com,egypt,javascript,20.0,2.0,2019-08-01,4.5,39556.0,0,0
+FL00030,hassan patel,hassan.patel35@outlook.com,pakistan,graphic design,30.0,7.32,2020-04-03,3.8,5938.0,1,1
+FL00031,nia brown,nia.brown63@gmail.com,australia,graphic design,20.0,14.0,2017-01-13,4.0,66664.0,0,0
+FL00032,zara kumar,zara.kumar64@outlook.com,vietnam,python,120.0,7.32,2017-02-07,3.9,42017.0,1,1
+FL00033,olga khan,olga.khan91@yahoo.com,bangladesh,php,15.0,3.0,2020-08-03,4.8,89596.0,0,1
+FL00034,lena khan,lena.khan71@outlook.com,philippines,machine learning,30.0,15.0,2020-01-04,4.4,100437.0,1,0
+FL00035,lena patel,lena.patel2@outlook.com,canada,python,20.0,10.0,2019-12-09,3.6,83510.0,0,0
+FL00036,michael sharma,michael.sharma91@gmail.com,india,wordpress,15.0,9.0,2019-11-13,4.7,47700.0,1,1
+FL00037,michael yamamoto,michael.yamamoto2@yahoo.com,nigeria,flutter,25.0,4.0,2022-02-25,4.2,127170.0,0,1
+FL00038,sarah singh,sarah.singh7@outlook.com,philippines,machine learning,300.0,12.0,2021-05-07,3.7,36355.0,1,0
+FL00039,ravi garcia,ravi.garcia17@outlook.com,australia,copywriting,12.0,4.0,2018-08-31,4.6,20239.0,1,0
+FL00040,aarav brown,aarav.brown96@outlook.com,uk,php,75.0,12.0,2021-01-06,3.3,17071.0,0,0
+FL00041,david silva,david.silva18@yahoo.com,uk,javascript,20.0,1.0,2016-04-20,3.5,9076.0,1,0
+FL00042,carlos müller,carlos.müller16@yahoo.com,bangladesh,php,40.0,11.0,2015-09-06,4.0,145782.0,1,0
+FL00043,deepak johansson,nan,pakistan,graphic design,1000.0,4.0,2017-10-23,3.1,29087.0,1,1
+FL00044,olga singh,olga.singh55@outlook.com,australia,devops,120.0,14.0,2015-09-07,4.1,100351.0,0,1
+FL00045,lena johansson,lena.johansson30@yahoo.com,nigeria,seo,15.0,3.0,2023-01-31,4.9,25813.0,1,0
+FL00046,zara müller,zara.müller93@gmail.com,nigeria,video editing,75.0,3.0,2022-06-18,4.4,73524.0,0,0
+FL00047,ivan brown,ivan.brown40@yahoo.com,australia,php,100.0,0.0,2015-04-29,3.6,82193.0,0,1
+FL00048,natasha sharma,natasha.sharma78@yahoo.com,mexico,python,20.0,1.0,2018-01-19,4.4,73631.88,1,0
+FL00049,juan petrov,juan.petrov30@outlook.com,australia,data analysis,30.0,0.0,2016-12-20,3.5,76394.0,1,1
+FL00050,zara patel,zara.patel11@yahoo.com,nigeria,copywriting,150.0,2.0,2017-09-23,4.2,39216.0,1,1
+FL00051,hassan mbeki,hassan.mbeki73@outlook.com,nigeria,react,120.0,15.0,2023-07-10,4.6,73631.88,1,1
+FL00052,hassan mbeki,hassan.mbeki6@yahoo.com,vietnam,php,15.0,12.0,2021-03-20,4.2,22606.0,1,1
+FL00053,fatima müller,fatima.müller87@outlook.com,canada,copywriting,75.0,5.0,2018-03-04,3.8,37574.0,1,0
+FL00054,david johansson,david.johansson17@outlook.com,uk,react,100.0,7.32,2019-03-23,3.8,90083.0,0,0
+FL00055,maria johansson,maria.johansson44@outlook.com,pakistan,react,15.0,3.0,2023-04-14,3.8,75192.0,0,0
+FL00056,fatima mbeki,fatima.mbeki49@outlook.com,bangladesh,data analysis,60.0,6.0,2019-12-10,3.7,135742.0,1,1
+FL00057,ravi johnson,ravi.johnson54@gmail.com,philippines,copywriting,75.0,13.0,2020-01-22,4.1,124351.0,1,0
+FL00058,kofi khan,kofi.khan55@gmail.com,nigeria,python,150.0,6.0,2021-02-25,4.1,135602.0,1,0
+FL00059,james sharma,james.sharma68@outlook.com,india,wordpress,40.0,13.0,,4.1,27674.0,1,1
+FL00060,kofi yamamoto,kofi.yamamoto18@gmail.com,nan,video editing,40.0,5.0,2022-10-19,3.6,124598.0,0,0
+FL00061,sarah patel,sarah.patel96@yahoo.com,ukraine,php,12.0,10.0,2023-12-19,4.6,143492.0,1,1
+FL00062,james yamamoto,james.yamamoto46@outlook.com,philippines,data analysis,60.0,13.0,2018-12-10,4.3,37928.0,1,0
+FL00063,sofia kumar,sofia.kumar48@yahoo.com,usa,node.js,120.0,7.32,2021-10-14,2.9,68733.0,1,1
+FL00064,hassan ahmed,hassan.ahmed88@yahoo.com,mexico,copywriting,25.0,2.0,2022-12-31,3.9,59283.0,1,0
+FL00065,hassan johansson,hassan.johansson40@yahoo.com,canada,python,40.0,11.0,2016-06-15,3.8,145020.0,1,0
+FL00066,david ahmed,david.ahmed45@outlook.com,mexico,php,12.0,4.0,2016-10-25,3.6,40921.0,0,0
+FL00067,ravi kumar,ravi.kumar27@outlook.com,ukraine,php,100.0,0.0,2022-03-12,4.0,115739.0,0,0
+FL00068,omar khan,omar.khan41@gmail.com,pakistan,ui/ux design,150.0,11.0,2023-07-13,4.2,86335.0,1,1
+FL00069,juan singh,juan.singh31@gmail.com,pakistan,copywriting,75.0,7.32,2016-01-04,4.3,106210.0,0,1
+FL00070,maria yamamoto,maria.yamamoto80@outlook.com,bangladesh,ui/ux design,75.0,12.0,2023-07-28,4.3,73631.88,1,0
+FL00071,ali hassan,ali.hassan95@yahoo.com,canada,video editing,60.0,7.32,2018-07-28,4.4,7485.0,1,0
+FL00072,sofia silva,sofia.silva49@gmail.com,australia,wordpress,100.0,1.0,2016-11-29,4.3,124128.0,1,0
+FL00073,maria okafor,maria.okafor69@yahoo.com,pakistan,video editing,25.0,15.0,2018-07-09,3.6,76260.0,1,0
+FL00074,david patel,david.patel51@yahoo.com,canada,ui/ux design,75.0,8.0,2021-06-06,5.0,141684.0,0,0
+FL00075,priya rossi,priya.rossi53@yahoo.com,usa,wordpress,150.0,7.0,2017-07-13,3.7,84692.0,1,1
+FL00076,nia ahmed,nia.ahmed5@yahoo.com,bangladesh,video editing,78.45,1.0,2019-09-08,4.0,119604.0,0,1
+FL00077,amara patel,amara.patel33@outlook.com,pakistan,php,75.0,6.0,2018-09-16,3.8,48939.0,0,1
+FL00078,nan,ali.garcia84@yahoo.com,india,data analysis,50.0,8.0,2021-07-13,4.0,77842.0,1,0
+FL00079,zara johansson,zara.johansson28@gmail.com,canada,react,60.0,11.0,2020-04-12,4.3,43632.0,0,0
+FL00080,amara kumar,amara.kumar73@gmail.com,bangladesh,machine learning,78.45,14.0,2020-02-01,3.8,142362.0,1,0
+FL00081,fatima okafor,fatima.okafor49@gmail.com,uk,react,20.0,13.0,2020-01-12,4.0,78714.0,1,1
+FL00082,deepak brown,deepak.brown15@gmail.com,uk,nan,25.0,7.32,2017-02-11,4.0,13260.0,1,0
+FL00083,michael mbeki,michael.mbeki42@gmail.com,brazil,node.js,12.0,9.0,2018-07-30,3.6,90786.0,1,0
+FL00084,omar ahmed,omar.ahmed29@yahoo.com,ukraine,machine learning,50.0,9.0,2023-06-18,3.6,21227.0,0,1
+FL00085,natasha hassan,natasha.hassan98@outlook.com,germany,php,25.0,7.32,2021-10-05,4.2,126046.0,1,1
+FL00086,omar yamamoto,omar.yamamoto47@outlook.com,uk,devops,25.0,9.0,2020-12-25,3.9,73631.88,0,1
+FL00087,omar mbeki,omar.mbeki88@yahoo.com,uk,data analysis,20.0,7.0,2017-10-03,2.9,15896.0,0,1
+FL00088,ravi khan,ravi.khan8@outlook.com,egypt,nan,12.0,7.32,2015-02-07,4.1,73631.88,0,0
+FL00089,maria khan,maria.khan46@yahoo.com,australia,devops,20.0,3.0,2017-09-14,4.0,106741.0,0,0
+FL00090,olga nguyen,olga.nguyen68@gmail.com,india,machine learning,20.0,13.0,2021-05-06,4.0,47516.0,1,1
+FL00091,david ahmed,david.ahmed50@outlook.com,nigeria,react,150.0,2.0,2021-04-28,3.1,104493.0,1,1
+FL00092,zara ahmed,zara.ahmed99@outlook.com,australia,copywriting,60.0,12.0,2022-08-16,4.4,81310.0,0,1
+FL00093,sunita singh,sunita.singh77@yahoo.com,usa,react,50.0,13.0,2016-01-03,3.9,70861.0,1,0
+FL00094,sarah johnson,sarah.johnson26@yahoo.com,uk,data analysis,60.0,11.0,2023-01-31,3.7,36184.0,0,0
+FL00095,chen silva,chen.silva36@yahoo.com,ukraine,react,50.0,7.32,2021-06-16,4.3,18629.0,0,0
+FL00096,sergiy petrov,sergiy.petrov77@yahoo.com,pakistan,flutter,78.45,4.0,2023-11-07,3.9,22777.0,1,0
+FL00097,nan,yuki.nguyen34@gmail.com,pakistan,flutter,100.0,12.0,2023-12-06,3.9,109545.0,1,1
+FL00098,amara williams,amara.williams57@outlook.com,germany,react,40.0,14.0,2020-11-04,4.1,64440.0,0,0
+FL00099,james petrov,james.petrov26@yahoo.com,uk,copywriting,25.0,5.0,2019-06-09,4.2,69274.0,0,1
+FL00100,fatima müller,fatima.müller91@yahoo.com,ukraine,wordpress,50.0,3.0,2020-02-19,4.4,101087.0,0,0
+FL00101,david khan,david.khan7@yahoo.com,mexico,flutter,20.0,15.0,2017-02-05,3.7,58310.0,1,0
+FL00102,carlos rossi,carlos.rossi70@yahoo.com,pakistan,graphic design,60.0,15.0,2016-04-08,4.1,8949.0,1,1
+FL00103,lena hassan,lena.hassan27@gmail.com,usa,graphic design,25.0,11.0,2022-02-04,2.9,36043.0,0,0
+FL00104,michael khan,michael.khan87@yahoo.com,philippines,php,120.0,4.0,2022-12-23,3.9,97249.0,0,1
+FL00105,olga müller,olga.müller55@gmail.com,vietnam,graphic design,150.0,14.0,2015-09-17,4.7,4768.0,0,0
+FL00106,bjorn garcia,bjorn.garcia12@outlook.com,india,seo,25.0,4.0,2016-10-13,4.2,73631.88,0,1
+FL00107,sergiy nguyen,sergiy.nguyen17@yahoo.com,bangladesh,video editing,120.0,0.0,2016-05-08,5.0,139569.0,0,0
+FL00108,nia petrov,nia.petrov12@gmail.com,ukraine,machine learning,25.0,4.0,2021-11-28,5.0,75190.0,1,1
+FL00109,chen okafor,chen.okafor31@yahoo.com,egypt,devops,78.45,6.0,2018-04-25,4.3,45790.0,0,1
+FL00110,amara okafor,amara.okafor99@yahoo.com,usa,python,30.0,1.0,2020-09-06,3.6,86155.0,1,0
+FL00111,priya johnson,priya.johnson79@outlook.com,usa,nan,150.0,7.32,2015-12-20,3.7,68460.0,1,0
+FL00112,ali petrov,ali.petrov74@outlook.com,philippines,machine learning,15.0,0.0,2018-01-19,4.5,60374.0,1,1
+FL00113,nia khan,nia.khan71@outlook.com,india,node.js,12.0,12.0,2017-01-03,4.3,12539.0,1,0
+FL00114,aarav müller,aarav.müller95@outlook.com,australia,php,30.0,14.0,2017-04-01,3.8,6767.0,1,0
+FL00115,lena garcia,lena.garcia54@yahoo.com,mexico,python,400.0,12.0,2016-03-01,3.2,132994.0,0,0
+FL00116,michael garcia,michael.garcia51@outlook.com,nigeria,python,50.0,4.0,2017-12-05,4.2,82821.0,0,1
+FL00117,ravi ahmed,ravi.ahmed78@gmail.com,bangladesh,copywriting,30.0,3.0,2022-09-11,4.6,146239.0,1,1
+FL00118,kofi johnson,kofi.johnson88@outlook.com,australia,graphic design,20.0,1.0,2016-06-19,5.0,87413.0,0,1
+FL00119,omar petrov,omar.petrov36@yahoo.com,nigeria,seo,150.0,0.0,2016-12-08,3.6,138339.0,0,1
+FL00120,fatima mbeki,fatima.mbeki4@yahoo.com,uk,graphic design,150.0,15.0,2020-08-19,4.3,65474.0,1,1
+FL00121,sofia okafor,sofia.okafor23@gmail.com,mexico,machine learning,12.0,7.0,2018-12-24,4.9,129534.0,1,0
+FL00122,aarav nguyen,aarav.nguyen92@gmail.com,india,node.js,100.0,15.0,2021-11-20,3.7,98434.0,1,0
+FL00123,chen petrov,chen.petrov41@gmail.com,ukraine,data analysis,40.0,5.0,2023-11-18,4.0,103155.0,0,1
+FL00124,nia silva,nia.silva45@yahoo.com,nigeria,ui/ux design,100.0,3.0,2016-07-30,4.3,67781.0,1,1
+FL00125,juan okafor,juan.okafor62@outlook.com,canada,machine learning,50.0,13.0,2018-12-09,4.2,143904.0,1,1
+FL00126,olga ahmed,olga.ahmed13@yahoo.com,nigeria,devops,60.0,13.0,2021-10-23,4.4,129199.0,1,1
+FL00127,emily patel,emily.patel11@yahoo.com,philippines,php,120.0,15.0,2015-04-16,3.6,122412.0,0,1
+FL00128,natasha müller,natasha.müller30@outlook.com,pakistan,graphic design,150.0,2.0,2021-01-26,4.4,9603.0,0,1
+FL00129,james ahmed,james.ahmed55@gmail.com,nigeria,react,15.0,14.0,2017-05-17,3.6,72904.0,0,1
+FL00130,zara khan,zara.khan13@gmail.com,nigeria,wordpress,75.0,3.0,2016-08-30,4.0,72698.0,0,1
+FL00131,sergiy johnson,sergiy.johnson48@gmail.com,uk,python,50.0,10.0,2015-07-21,4.0,109754.0,1,0
+FL00132,kofi kumar,kofi.kumar91@outlook.com,mexico,php,50.0,11.0,2020-10-11,4.0,94970.0,1,1
+FL00133,michael müller,michael.müller61@outlook.com,brazil,seo,120.0,7.32,2020-06-25,4.5,58525.0,1,0
+FL00134,juan khan,juan.khan29@yahoo.com,uk,video editing,12.0,0.0,2022-04-05,3.3,136982.0,0,1
+FL00135,david patel,david.patel82@yahoo.com,brazil,flutter,40.0,9.0,2020-05-27,4.2,37181.0,1,0
+FL00136,sofia mbeki,sofia.mbeki88@outlook.com,philippines,devops,50.0,1.0,2017-02-16,3.4,68304.0,0,0
+FL00137,michael garcia,michael.garcia34@outlook.com,mexico,ui/ux design,120.0,11.0,2019-09-19,4.3,14672.0,1,0
+FL00138,deepak nguyen,deepak.nguyen43@outlook.com,ukraine,seo,100.0,14.0,2023-01-10,3.6,34422.0,1,0
+FL00139,chen müller,nan,canada,seo,12.0,6.0,2015-02-27,4.1,120018.0,0,1
+FL00140,fatima williams,fatima.williams52@gmail.com,mexico,flutter,20.0,15.0,2016-11-06,4.1,67553.0,0,1
+FL00141,priya patel,priya.patel33@yahoo.com,india,flutter,15.0,0.0,2019-09-04,3.1,31363.0,0,1
+FL00142,fatima petrov,fatima.petrov27@outlook.com,nan,node.js,30.0,6.0,2018-04-24,4.5,27052.0,1,0
+FL00143,lena kumar,lena.kumar55@outlook.com,philippines,data analysis,60.0,5.0,2018-04-05,3.9,90342.0,0,0
+FL00144,amara petrov,amara.petrov17@outlook.com,philippines,php,50.0,15.0,2022-04-11,4.8,8054.0,0,0
+FL00145,hassan kumar,hassan.kumar91@outlook.com,pakistan,copywriting,60.0,13.0,2015-09-17,3.3,101393.0,0,1
+FL00146,maria silva,maria.silva63@yahoo.com,nigeria,python,12.0,5.0,2020-07-23,4.3,131167.0,1,0
+FL00147,kofi sharma,kofi.sharma39@outlook.com,india,javascript,50.0,0.0,2023-11-18,3.4,119128.0,0,0
+FL00148,carlos rossi,carlos.rossi22@yahoo.com,ukraine,ui/ux design,120.0,9.0,2019-03-12,3.5,89087.0,0,1
+FL00149,hassan mbeki,nan,vietnam,flutter,100.0,14.0,2020-08-27,4.3,84869.0,0,0
+FL00150,david yamamoto,david.yamamoto96@outlook.com,mexico,machine learning,25.0,10.0,2016-06-30,4.4,35279.0,1,0
+FL00151,carlos silva,carlos.silva54@outlook.com,germany,flutter,40.0,7.32,2021-07-15,3.8,42688.0,1,1
+FL00152,fatima yamamoto,fatima.yamamoto72@gmail.com,india,machine learning,30.0,1.0,2016-02-24,3.7,82460.0,1,1
+FL00153,yuki mbeki,yuki.mbeki93@gmail.com,bangladesh,wordpress,60.0,11.0,2021-02-16,4.5,87155.0,1,1
+FL00154,juan mbeki,juan.mbeki41@outlook.com,ukraine,wordpress,12.0,9.0,2021-03-03,4.5,95080.0,0,1
+FL00155,hassan johnson,hassan.johnson6@outlook.com,brazil,php,1200.0,7.32,2022-03-15,4.1,73631.88,1,0
+FL00156,olga sharma,olga.sharma88@yahoo.com,usa,javascript,20.0,0.0,2017-05-13,4.0,73631.88,1,1
+FL00157,nia brown,nan,philippines,video editing,15.0,7.0,2019-07-28,4.2,79497.0,1,0
+FL00158,deepak okafor,deepak.okafor82@gmail.com,vietnam,flutter,12.0,7.32,2023-12-08,3.9,73631.88,0,0
+FL00159,emily petrov,emily.petrov24@gmail.com,usa,data analysis,25.0,11.0,2022-03-30,3.9,66216.0,1,1
+FL00160,sunita garcia,sunita.garcia63@yahoo.com,ukraine,ui/ux design,20.0,7.0,2021-12-12,3.8,114827.0,1,0
+FL00161,yuki garcia,yuki.garcia78@gmail.com,ukraine,devops,60.0,11.0,,3.9,106703.0,1,1
+FL00162,fatima okafor,fatima.okafor38@gmail.com,brazil,devops,75.0,4.0,2017-07-03,4.0,117474.0,0,1
+FL00163,priya johnson,nan,pakistan,machine learning,150.0,11.0,2023-07-16,3.8,69526.0,0,0
+FL00164,maria brown,maria.brown52@yahoo.com,uk,nan,100.0,2.0,2019-03-22,3.4,39884.0,1,1
+FL00165,chen patel,chen.patel76@gmail.com,usa,flutter,25.0,10.0,2020-05-26,4.6,106787.0,0,0
+FL00166,emily yamamoto,emily.yamamoto22@gmail.com,germany,machine learning,120.0,2.0,2021-10-20,5.0,18546.0,0,0
+FL00167,ivan patel,ivan.patel5@outlook.com,bangladesh,video editing,75.0,4.0,2016-12-27,4.0,139388.0,0,0
+FL00168,zara khan,zara.khan11@yahoo.com,uk,ui/ux design,78.45,3.0,2017-11-08,3.9,83311.0,1,0
+FL00169,sofia müller,sofia.müller97@gmail.com,nigeria,data analysis,30.0,13.0,2021-11-11,3.9,60733.0,1,0
+FL00170,james okafor,james.okafor19@yahoo.com,brazil,seo,78.45,1.0,2022-02-17,3.0,15563.0,0,0
+FL00171,emily kumar,emily.kumar30@outlook.com,canada,python,25.0,9.0,2023-10-17,3.5,18487.0,0,1
+FL00172,michael hassan,michael.hassan1@yahoo.com,brazil,devops,100.0,8.0,2017-03-07,3.7,66073.0,0,1
+FL00173,natasha yamamoto,natasha.yamamoto34@gmail.com,bangladesh,graphic design,40.0,14.0,2021-07-31,4.0,90151.0,1,0
+FL00174,juan williams,juan.williams27@gmail.com,bangladesh,devops,100.0,6.0,2017-08-19,4.4,142444.0,0,0
+FL00175,james rossi,james.rossi17@gmail.com,ukraine,copywriting,100.0,15.0,2018-02-21,4.0,55747.0,1,1
+FL00176,sarah silva,sarah.silva55@gmail.com,vietnam,data analysis,20.0,7.0,2021-11-16,4.0,62314.0,0,0
+FL00177,james petrov,james.petrov81@outlook.com,australia,machine learning,78.45,0.0,2020-08-08,4.0,88228.0,1,1
+FL00178,fatima hassan,fatima.hassan69@gmail.com,australia,data analysis,400.0,3.0,2017-03-25,5.0,44428.0,1,0
+FL00179,michael nguyen,michael.nguyen78@outlook.com,nigeria,seo,15.0,10.0,2018-07-21,4.3,21488.0,0,1
+FL00180,yuki okafor,yuki.okafor34@outlook.com,mexico,devops,60.0,0.0,2020-11-16,4.0,94043.0,1,0
+FL00181,sergiy johansson,sergiy.johansson96@outlook.com,vietnam,video editing,30.0,4.0,2016-12-26,4.0,137684.0,0,0
+FL00182,yuki silva,yuki.silva38@outlook.com,canada,video editing,12.0,15.0,2018-05-12,4.2,69438.0,1,0
+FL00183,david johansson,david.johansson24@gmail.com,australia,devops,100.0,7.32,2018-01-06,3.7,71067.0,0,0
+FL00184,zara garcia,zara.garcia60@outlook.com,usa,react,12.0,10.0,2023-10-24,3.9,100528.0,1,0
+FL00185,emily yamamoto,emily.yamamoto27@yahoo.com,australia,copywriting,25.0,1.0,2023-03-31,4.0,57591.0,1,0
+FL00186,amara johnson,amara.johnson89@yahoo.com,india,react,30.0,12.0,2015-02-06,4.5,93696.0,1,1
+FL00187,amara yamamoto,amara.yamamoto46@outlook.com,pakistan,copywriting,25.0,11.0,2023-03-23,4.0,145864.0,0,0
+FL00188,yuki rossi,yuki.rossi80@yahoo.com,vietnam,data analysis,75.0,0.0,2019-04-02,3.6,85067.0,1,1
+FL00189,james kumar,james.kumar5@outlook.com,egypt,javascript,78.45,4.0,,4.6,21460.0,1,1
+FL00190,kofi hassan,kofi.hassan39@gmail.com,germany,devops,50.0,1.0,2017-12-24,3.7,146813.0,1,0
+FL00191,james ahmed,james.ahmed21@outlook.com,egypt,copywriting,150.0,3.0,2021-03-02,3.9,56579.0,0,0
+FL00192,david hassan,david.hassan39@gmail.com,canada,copywriting,500.0,1.0,2015-03-08,3.3,41057.0,0,1
+FL00193,amara garcia,amara.garcia28@outlook.com,philippines,ui/ux design,100.0,8.0,2016-01-12,4.9,15159.0,1,1
+FL00194,chen hassan,chen.hassan7@yahoo.com,uk,seo,15.0,7.0,2015-02-16,4.2,132811.0,0,1
+FL00195,carlos okafor,carlos.okafor90@gmail.com,pakistan,react,40.0,1.0,2017-12-11,3.9,23986.0,0,0
+FL00196,yuki garcia,yuki.garcia57@outlook.com,bangladesh,ui/ux design,40.0,0.0,2016-11-24,4.5,39212.0,0,1
+FL00197,aarav nguyen,aarav.nguyen70@outlook.com,germany,graphic design,15.0,15.0,2017-05-06,4.0,71614.0,1,1
+FL00198,lena patel,lena.patel50@gmail.com,egypt,data analysis,120.0,11.0,2015-03-20,4.2,73631.88,0,1
+FL00199,fatima garcia,fatima.garcia36@gmail.com,uk,nan,200.0,11.0,2017-08-25,3.9,60118.0,0,0
+FL00200,emily khan,emily.khan18@yahoo.com,philippines,devops,100.0,4.0,2021-07-07,3.8,140212.0,1,0
+FL00201,bjorn petrov,bjorn.petrov82@outlook.com,mexico,react,1500.0,10.0,2019-08-12,4.1,125438.0,0,1
+FL00202,juan khan,juan.khan98@gmail.com,egypt,ui/ux design,20.0,15.0,2016-11-01,4.8,85669.0,1,0
+FL00203,omar hassan,omar.hassan83@outlook.com,india,wordpress,150.0,10.0,2023-04-30,3.4,13422.0,0,0
+FL00204,david hassan,david.hassan60@outlook.com,australia,php,30.0,13.0,2015-08-12,3.8,53435.0,1,1
+FL00205,ravi patel,ravi.patel68@outlook.com,egypt,devops,150.0,3.0,2022-12-02,3.8,47388.0,1,0
+FL00206,sunita khan,sunita.khan2@yahoo.com,germany,graphic design,60.0,5.0,2017-04-10,3.8,2223.0,0,1
+FL00207,priya müller,priya.müller74@outlook.com,brazil,php,25.0,4.0,2015-05-31,4.1,94921.0,1,1
+FL00208,david silva,david.silva43@outlook.com,mexico,seo,15.0,2.0,2016-07-05,3.7,75784.0,0,1
+FL00209,maria silva,maria.silva30@outlook.com,nigeria,wordpress,40.0,15.0,2020-07-10,4.4,73631.88,1,0
+FL00210,yuki singh,yuki.singh93@outlook.com,australia,javascript,30.0,10.0,2016-04-11,4.1,121248.0,0,1
+FL00211,sofia nguyen,sofia.nguyen88@yahoo.com,vietnam,seo,78.45,9.0,2021-03-24,3.6,81314.0,1,0
+FL00212,hassan garcia,hassan.garcia48@gmail.com,uk,javascript,60.0,11.0,2017-06-04,3.8,86309.0,0,1
+FL00213,hassan okafor,hassan.okafor40@gmail.com,brazil,flutter,20.0,1.0,2023-01-02,3.6,50974.0,0,1
+FL00214,sunita singh,sunita.singh70@yahoo.com,egypt,javascript,30.0,8.0,2021-12-26,4.0,8100.0,1,1
+FL00215,ivan müller,ivan.müller98@outlook.com,india,javascript,50.0,14.0,2018-07-03,3.7,123850.0,1,0
+FL00216,amara nguyen,amara.nguyen15@yahoo.com,nigeria,data analysis,40.0,10.0,2020-01-31,4.7,19092.0,0,0
+FL00217,juan okafor,juan.okafor76@yahoo.com,uk,node.js,100.0,5.0,2015-09-28,3.3,146012.0,0,0
+FL00218,ali silva,ali.silva18@outlook.com,nan,javascript,100.0,12.0,2022-03-26,4.1,83494.0,0,0
+FL00219,ravi mbeki,ravi.mbeki17@yahoo.com,mexico,seo,150.0,11.0,2015-02-03,3.4,100846.0,0,1
+FL00220,kofi müller,kofi.müller86@gmail.com,nan,copywriting,20.0,12.0,2019-09-05,4.3,120045.0,1,1
+FL00221,omar müller,omar.müller74@yahoo.com,nigeria,react,60.0,14.0,2017-07-13,4.4,37747.0,0,1
+FL00222,olga sharma,olga.sharma40@outlook.com,usa,video editing,100.0,15.0,2022-09-02,4.4,76314.0,1,1
+FL00223,sofia ahmed,nan,germany,graphic design,100.0,15.0,2021-06-04,4.0,40119.0,1,0
+FL00224,ali sharma,ali.sharma64@yahoo.com,germany,node.js,60.0,1.0,2016-08-17,3.3,44435.0,0,1
+FL00225,juan brown,juan.brown37@yahoo.com,australia,devops,75.0,12.0,2016-08-17,3.8,26262.0,0,0
+FL00226,maria nguyen,maria.nguyen71@gmail.com,nan,machine learning,25.0,6.0,2022-08-07,4.0,24601.0,0,0
+FL00227,ravi hassan,ravi.hassan83@outlook.com,bangladesh,wordpress,120.0,3.0,2016-06-16,4.1,85278.0,0,1
+FL00228,sarah brown,sarah.brown26@outlook.com,india,seo,50.0,1.0,2016-12-29,4.0,18958.0,1,0
+FL00229,natasha okafor,nan,canada,react,120.0,1.0,2017-12-27,3.4,32272.0,1,1
+FL00230,fatima johansson,fatima.johansson99@yahoo.com,nan,python,120.0,2.0,2018-10-24,4.5,115314.0,1,1
+FL00231,amara johansson,nan,germany,wordpress,25.0,2.0,2022-03-20,4.2,73631.88,1,0
+FL00232,aarav ahmed,aarav.ahmed13@yahoo.com,canada,devops,100.0,4.0,2022-02-04,3.8,105884.0,1,1
+FL00233,ali sharma,ali.sharma22@outlook.com,ukraine,php,25.0,5.0,2016-05-09,4.0,23867.0,0,1
+FL00234,deepak brown,deepak.brown23@outlook.com,australia,graphic design,60.0,6.0,2020-11-12,3.9,139488.0,0,1
+FL00235,sarah kumar,sarah.kumar61@yahoo.com,brazil,video editing,25.0,6.0,2017-03-04,4.8,46607.0,1,0
+FL00236,zara williams,zara.williams15@yahoo.com,usa,devops,25.0,10.0,2023-05-19,4.2,119773.0,1,0
+FL00237,ali khan,ali.khan18@gmail.com,bangladesh,flutter,40.0,6.0,2015-05-12,4.6,23168.0,0,0
+FL00238,aarav petrov,aarav.petrov56@outlook.com,bangladesh,wordpress,60.0,8.0,2023-04-04,5.0,112094.0,0,0
+FL00239,sergiy petrov,nan,canada,copywriting,25.0,0.0,2017-06-11,3.9,122212.0,1,0
+FL00240,zara brown,zara.brown27@outlook.com,mexico,machine learning,40.0,9.0,2022-10-30,3.7,96332.0,1,1
+FL00241,michael johansson,michael.johansson97@outlook.com,brazil,machine learning,25.0,10.0,2016-04-10,3.6,32667.0,0,0
+FL00242,emily yamamoto,emily.yamamoto37@gmail.com,mexico,data analysis,60.0,2.0,2015-12-24,4.4,35110.0,0,0
+FL00243,kofi rossi,kofi.rossi84@outlook.com,india,data analysis,25.0,7.0,2022-03-25,4.1,76035.0,1,0
+FL00244,james ahmed,james.ahmed20@gmail.com,canada,react,100.0,7.32,2022-12-10,3.7,98257.0,1,1
+FL00245,hassan nguyen,hassan.nguyen65@yahoo.com,mexico,python,50.0,4.0,2016-10-01,4.4,126062.0,1,0
+FL00246,hassan müller,hassan.müller25@outlook.com,philippines,python,50.0,7.0,2016-01-14,3.8,129072.0,0,1
+FL00247,fatima okafor,fatima.okafor40@yahoo.com,mexico,flutter,40.0,13.0,2019-03-08,3.1,23064.0,1,0
+FL00248,ravi singh,ravi.singh23@outlook.com,brazil,ui/ux design,15.0,12.0,2019-08-05,4.5,130025.0,0,0
+FL00249,sunita garcia,nan,india,react,30.0,15.0,2019-09-05,3.5,98332.0,0,1
+FL00250,bjorn khan,bjorn.khan54@outlook.com,pakistan,wordpress,12.0,14.0,2019-01-03,2.8,143030.0,1,0
+FL00251,nan,carlos.mbeki67@yahoo.com,philippines,flutter,150.0,3.0,2018-12-11,3.3,139985.0,1,1
+FL00252,juan müller,juan.müller57@outlook.com,mexico,javascript,15.0,0.0,2018-06-30,3.4,55508.0,1,0
+FL00253,yuki petrov,yuki.petrov85@outlook.com,australia,javascript,78.45,15.0,2015-06-24,3.7,8170.0,0,0
+FL00254,maria mbeki,maria.mbeki2@outlook.com,nigeria,ui/ux design,40.0,7.0,2015-10-07,3.8,96566.0,1,0
+FL00255,emily rossi,emily.rossi41@gmail.com,usa,react,40.0,13.0,2017-07-21,3.2,116880.0,0,1
+FL00256,natasha müller,natasha.müller87@gmail.com,uk,node.js,15.0,15.0,2017-01-04,4.2,95844.0,1,0
+FL00257,sarah mbeki,sarah.mbeki83@yahoo.com,uk,javascript,25.0,15.0,2021-08-28,4.0,14354.0,0,0
+FL00258,david hassan,david.hassan97@outlook.com,pakistan,seo,100.0,4.0,2021-12-27,5.0,8783.0,1,0
+FL00259,james johansson,james.johansson91@gmail.com,vietnam,seo,60.0,1.0,2022-05-24,3.0,103099.0,0,0
+FL00260,sofia kumar,nan,ukraine,graphic design,30.0,0.0,2016-06-09,4.1,22766.0,1,1
+FL00261,natasha petrov,natasha.petrov3@outlook.com,pakistan,python,75.0,14.0,2021-05-15,3.1,44180.0,1,0
+FL00262,david brown,david.brown29@outlook.com,egypt,php,15.0,6.0,2015-07-14,4.0,79627.0,1,0
+FL00263,natasha johansson,natasha.johansson67@gmail.com,ukraine,node.js,50.0,14.0,2017-01-09,3.4,137409.0,0,0
+FL00264,ali sharma,ali.sharma37@outlook.com,germany,flutter,78.45,13.0,2022-02-09,4.3,111129.0,1,0
+FL00265,natasha johansson,natasha.johansson93@yahoo.com,pakistan,python,30.0,8.0,2016-12-21,4.4,37347.0,0,0
+FL00266,juan sharma,juan.sharma41@yahoo.com,usa,video editing,120.0,8.0,2017-09-02,3.7,15160.0,1,0
+FL00267,sarah khan,sarah.khan40@gmail.com,nan,video editing,50.0,7.0,2019-01-26,3.5,32495.0,1,0
+FL00268,david williams,david.williams99@outlook.com,mexico,seo,30.0,7.0,2016-10-18,4.5,26818.0,1,1
+FL00269,hassan singh,hassan.singh81@yahoo.com,ukraine,seo,100.0,10.0,2023-07-19,4.4,108061.0,1,0
+FL00270,amara garcia,amara.garcia51@yahoo.com,germany,react,30.0,10.0,2017-03-24,3.3,73631.88,0,0
+FL00271,aarav rossi,aarav.rossi87@yahoo.com,pakistan,javascript,40.0,3.0,2019-11-18,2.7,50140.0,0,0
+FL00272,fatima mbeki,fatima.mbeki61@gmail.com,philippines,node.js,100.0,7.0,2022-09-03,4.0,62062.0,1,1
+FL00273,aarav brown,aarav.brown51@outlook.com,australia,wordpress,150.0,1.0,2020-08-28,3.7,31129.0,1,0
+FL00274,david brown,david.brown67@yahoo.com,vietnam,data analysis,150.0,13.0,2021-11-15,4.6,14804.0,1,0
+FL00275,priya yamamoto,priya.yamamoto59@yahoo.com,germany,copywriting,50.0,15.0,2018-12-31,3.3,1581.0,0,0
+FL00276,aarav garcia,aarav.garcia48@outlook.com,usa,node.js,60.0,10.0,2022-08-22,3.7,86857.0,1,1
+FL00277,emily kumar,emily.kumar8@outlook.com,ukraine,machine learning,150.0,4.0,2023-12-28,4.5,40905.0,0,0
+FL00278,natasha patel,natasha.patel50@yahoo.com,mexico,data analysis,120.0,11.0,2019-02-14,4.7,59280.0,1,0
+FL00279,hassan petrov,hassan.petrov20@gmail.com,brazil,flutter,120.0,9.0,2015-11-21,3.5,66922.0,0,1
+FL00280,amara ahmed,amara.ahmed91@yahoo.com,india,javascript,150.0,5.0,2019-05-29,4.3,68478.0,1,0
+FL00281,hassan okafor,hassan.okafor63@yahoo.com,india,seo,150.0,15.0,,4.1,7529.0,1,0
+FL00282,ravi garcia,ravi.garcia3@gmail.com,uk,php,120.0,6.0,2023-08-19,4.1,13848.0,1,0
+FL00283,priya silva,priya.silva79@outlook.com,uk,nan,60.0,9.0,2019-06-26,4.2,91402.0,0,1
+FL00284,maria johnson,maria.johnson78@outlook.com,germany,node.js,60.0,7.0,2021-08-04,3.8,42974.0,1,0
+FL00285,ivan silva,ivan.silva64@yahoo.com,egypt,copywriting,20.0,5.0,2016-02-18,4.2,59925.0,1,0
+FL00286,bjorn khan,bjorn.khan14@outlook.com,ukraine,graphic design,40.0,8.0,2022-09-27,3.6,73631.88,1,0
+FL00287,sergiy yamamoto,sergiy.yamamoto13@gmail.com,vietnam,node.js,40.0,9.0,2023-07-19,3.7,98131.0,0,1
+FL00288,deepak petrov,deepak.petrov67@outlook.com,bangladesh,react,75.0,7.0,2019-08-21,4.5,16613.0,1,0
+FL00289,zara okafor,zara.okafor93@outlook.com,pakistan,devops,100.0,9.0,2022-08-20,3.5,91005.0,0,0
+FL00290,omar khan,omar.khan12@outlook.com,bangladesh,nan,30.0,10.0,2020-11-01,3.5,132954.0,1,1
+FL00291,hassan garcia,hassan.garcia31@outlook.com,brazil,ui/ux design,15.0,3.0,2021-06-02,3.8,136727.0,1,1
+FL00292,sergiy petrov,sergiy.petrov17@yahoo.com,bangladesh,php,40.0,4.0,2019-08-15,3.3,128830.0,0,0
+FL00293,sergiy williams,sergiy.williams72@yahoo.com,pakistan,copywriting,150.0,3.0,2020-02-09,4.0,37952.0,0,0
+FL00294,aarav patel,aarav.patel54@yahoo.com,mexico,data analysis,30.0,15.0,2021-02-20,4.3,118446.0,1,0
+FL00295,michael okafor,michael.okafor57@outlook.com,australia,wordpress,120.0,12.0,2018-10-20,5.0,14360.0,0,0
+FL00296,aarav brown,aarav.brown75@yahoo.com,brazil,devops,12.0,5.0,,4.6,100641.0,1,1
+FL00297,deepak garcia,nan,philippines,react,20.0,2.0,2019-07-27,4.2,129731.0,0,0
+FL00298,ravi silva,ravi.silva3@yahoo.com,philippines,python,40.0,13.0,2015-04-29,4.8,37820.0,1,0
+FL00299,kofi yamamoto,kofi.yamamoto1@gmail.com,uk,devops,75.0,0.0,2021-12-17,4.8,79310.0,1,1
+FL00300,ivan rossi,ivan.rossi44@outlook.com,germany,video editing,30.0,6.0,,4.2,1036.0,1,1
+FL00301,carlos sharma,carlos.sharma69@gmail.com,uk,video editing,150.0,12.0,2023-10-30,4.5,97619.0,0,1
+FL00302,emily sharma,emily.sharma29@gmail.com,nan,graphic design,30.0,7.32,2021-11-17,2.7,29583.0,0,1
+FL00303,ravi mbeki,ravi.mbeki73@gmail.com,brazil,nan,120.0,5.0,2016-06-09,4.0,14095.0,1,0
+FL00304,juan müller,juan.müller29@gmail.com,uk,data analysis,15.0,7.32,2020-10-19,4.0,111601.0,1,0
+FL00305,juan petrov,juan.petrov43@yahoo.com,philippines,javascript,120.0,0.0,2015-04-09,3.8,33222.0,1,1
+FL00306,priya yamamoto,priya.yamamoto9@gmail.com,mexico,php,150.0,4.0,2015-08-13,4.0,101142.0,0,1
+FL00307,maria nguyen,maria.nguyen77@outlook.com,ukraine,flutter,120.0,14.0,2021-08-04,4.0,82201.0,0,0
+FL00308,juan garcia,juan.garcia2@outlook.com,philippines,wordpress,75.0,4.0,2021-10-07,4.9,18431.0,1,0
+FL00309,ivan garcia,ivan.garcia6@yahoo.com,canada,wordpress,150.0,10.0,2019-09-11,4.0,2263.0,1,1
+FL00310,priya singh,priya.singh34@outlook.com,usa,react,30.0,11.0,2017-03-26,3.7,29589.0,1,1
+FL00311,bjorn sharma,bjorn.sharma25@gmail.com,ukraine,graphic design,40.0,13.0,2016-04-30,3.9,73919.0,0,1
+FL00312,amara hassan,amara.hassan83@outlook.com,mexico,copywriting,25.0,15.0,2015-09-23,4.3,10095.0,1,0
+FL00313,sofia ahmed,sofia.ahmed97@gmail.com,uk,node.js,30.0,12.0,2019-03-13,4.0,116285.0,1,1
+FL00314,amara brown,amara.brown5@outlook.com,usa,data analysis,75.0,2.0,2017-07-21,4.0,142877.0,1,1
+FL00315,juan rossi,juan.rossi30@gmail.com,ukraine,graphic design,50.0,0.0,2023-07-15,4.3,109994.0,0,1
+FL00316,juan müller,juan.müller97@yahoo.com,pakistan,wordpress,78.45,0.0,2018-10-23,3.6,102968.0,1,0
+FL00317,olga garcia,olga.garcia23@gmail.com,nan,node.js,60.0,14.0,2016-01-17,4.0,86161.0,0,0
+FL00318,omar williams,omar.williams91@outlook.com,usa,react,75.0,7.32,2016-06-16,4.1,105157.0,1,1
+FL00319,chen sharma,chen.sharma45@outlook.com,nigeria,devops,60.0,1.0,2018-03-25,3.5,25543.0,1,0
+FL00320,sergiy williams,sergiy.williams16@yahoo.com,pakistan,data analysis,120.0,2.0,2020-07-14,4.5,121585.0,1,0
+FL00321,ali yamamoto,ali.yamamoto85@gmail.com,uk,python,12.0,4.0,2020-06-08,4.0,3438.0,1,0
+FL00322,hassan kumar,hassan.kumar92@outlook.com,bangladesh,nan,12.0,6.0,2022-02-13,3.7,73631.88,1,1
+FL00323,amara ahmed,amara.ahmed14@yahoo.com,bangladesh,flutter,120.0,3.0,2023-02-13,4.0,56275.0,1,0
+FL00324,zara garcia,zara.garcia14@outlook.com,egypt,wordpress,40.0,6.0,2023-08-10,4.1,35347.0,1,0
+FL00325,ivan mbeki,ivan.mbeki30@outlook.com,vietnam,flutter,60.0,0.0,2020-01-13,4.5,40259.0,1,1
+FL00326,deepak brown,deepak.brown67@yahoo.com,nan,wordpress,60.0,10.0,2018-07-24,4.2,58812.0,0,1
+FL00327,ravi williams,ravi.williams27@gmail.com,canada,flutter,12.0,15.0,2015-08-02,4.0,75303.0,1,0
+FL00328,omar okafor,omar.okafor79@outlook.com,australia,copywriting,15.0,11.0,2016-11-18,4.3,145426.0,1,0
+FL00329,ravi nguyen,nan,canada,data analysis,50.0,15.0,2016-07-13,3.6,10678.0,1,0
+FL00330,maria silva,maria.silva84@yahoo.com,pakistan,node.js,50.0,11.0,2022-02-13,3.5,119898.0,1,1
+FL00331,olga okafor,olga.okafor11@outlook.com,nigeria,flutter,200.0,2.0,2019-06-17,3.9,23797.0,0,1
+FL00332,sergiy garcia,sergiy.garcia1@gmail.com,philippines,machine learning,25.0,12.0,2015-01-27,3.2,29398.0,0,0
+FL00333,sarah petrov,sarah.petrov82@gmail.com,india,nan,20.0,6.0,,3.9,11473.0,0,1
+FL00334,yuki nguyen,yuki.nguyen44@yahoo.com,brazil,graphic design,30.0,15.0,2021-10-11,5.0,73631.88,1,1
+FL00335,maria petrov,maria.petrov42@gmail.com,germany,graphic design,25.0,15.0,2022-05-28,3.3,125312.0,0,0
+FL00336,lena rossi,lena.rossi5@gmail.com,germany,seo,30.0,4.0,2021-05-31,5.0,64294.0,0,0
+FL00337,bjorn okafor,bjorn.okafor86@yahoo.com,usa,seo,1500.0,10.0,2023-08-05,3.0,90474.0,1,0
+FL00338,amara johnson,amara.johnson15@gmail.com,uk,flutter,120.0,13.0,2017-07-04,3.5,140905.0,0,0
+FL00339,maria hassan,maria.hassan69@yahoo.com,ukraine,graphic design,120.0,4.0,2021-08-16,4.1,132195.0,1,1
+FL00340,juan garcia,juan.garcia43@gmail.com,germany,wordpress,60.0,6.0,2022-11-24,3.9,42231.0,0,0
+FL00341,ravi rossi,ravi.rossi25@outlook.com,egypt,copywriting,40.0,12.0,2023-02-24,4.1,76805.0,1,0
+FL00342,natasha khan,natasha.khan22@gmail.com,bangladesh,machine learning,1200.0,3.0,2019-03-23,4.2,9411.0,0,0
+FL00343,yuki yamamoto,nan,nigeria,react,120.0,2.0,2022-04-17,3.9,101152.0,1,0
+FL00344,omar singh,omar.singh68@yahoo.com,nigeria,react,15.0,5.0,2019-06-01,3.8,73631.88,0,1
+FL00345,carlos brown,carlos.brown65@yahoo.com,pakistan,nan,25.0,2.0,2023-06-12,3.7,82534.0,1,1
+FL00346,michael kumar,michael.kumar28@gmail.com,bangladesh,machine learning,15.0,1.0,2017-02-09,3.5,22324.0,1,0
+FL00347,olga williams,olga.williams66@outlook.com,pakistan,video editing,25.0,8.0,2023-01-05,3.8,23824.0,1,1
+FL00348,michael okafor,michael.okafor68@outlook.com,australia,node.js,300.0,12.0,2016-03-06,4.0,83860.0,0,0
+FL00349,juan mbeki,juan.mbeki92@gmail.com,germany,flutter,75.0,12.0,2016-06-06,3.5,93299.0,0,1
+FL00350,david sharma,david.sharma12@outlook.com,uk,video editing,150.0,7.0,2018-06-05,4.3,111644.0,1,0
+FL00351,omar singh,omar.singh1@outlook.com,brazil,flutter,120.0,3.0,2021-11-29,4.5,137736.0,1,1
+FL00352,juan okafor,juan.okafor87@gmail.com,pakistan,video editing,40.0,7.32,2016-11-29,4.1,80406.0,1,1
+FL00353,priya müller,nan,india,devops,60.0,15.0,2015-01-25,4.4,66071.0,0,1
+FL00354,sunita yamamoto,sunita.yamamoto46@outlook.com,uk,devops,78.45,8.0,2022-05-12,4.4,52664.0,1,1
+FL00355,ali okafor,ali.okafor50@gmail.com,nan,video editing,60.0,4.0,2020-08-17,4.8,76381.0,1,0
+FL00356,yuki patel,yuki.patel55@gmail.com,pakistan,machine learning,75.0,8.0,2017-12-15,3.9,73631.88,1,0
+FL00357,zara rossi,zara.rossi29@yahoo.com,nigeria,node.js,15.0,12.0,2018-06-09,4.0,84815.0,0,1
+FL00358,fatima nguyen,fatima.nguyen88@outlook.com,usa,seo,20.0,15.0,2018-05-31,3.8,23367.0,1,0
+FL00359,emily yamamoto,emily.yamamoto44@yahoo.com,usa,python,100.0,6.0,2016-02-09,4.7,96447.0,1,1
+FL00360,james hassan,james.hassan6@outlook.com,usa,copywriting,50.0,0.0,2018-01-27,3.1,147955.0,0,1
+FL00361,bjorn rossi,bjorn.rossi34@yahoo.com,pakistan,python,20.0,0.0,2020-02-09,4.0,14005.0,1,0
+FL00362,ali sharma,ali.sharma18@yahoo.com,india,nan,40.0,11.0,2022-11-29,4.0,28403.0,1,0
+FL00363,kofi yamamoto,kofi.yamamoto81@yahoo.com,philippines,php,120.0,6.0,2017-06-22,4.2,73631.88,1,0
+FL00364,zara johnson,zara.johnson13@outlook.com,egypt,wordpress,78.45,2.0,2020-02-07,4.0,65601.0,1,0
+FL00365,carlos nguyen,carlos.nguyen98@outlook.com,nigeria,python,12.0,3.0,,4.6,109364.0,1,1
+FL00366,nia okafor,nia.okafor15@yahoo.com,uk,react,40.0,7.0,2022-09-13,4.2,40110.0,0,1
+FL00367,ivan garcia,ivan.garcia64@outlook.com,egypt,seo,20.0,9.0,2018-11-27,4.3,125918.0,1,1
+FL00368,james okafor,james.okafor89@yahoo.com,germany,data analysis,20.0,4.0,2018-12-15,4.4,60823.0,0,0
+FL00369,sergiy sharma,sergiy.sharma3@yahoo.com,nigeria,graphic design,150.0,7.0,2017-08-21,4.6,110882.0,0,0
+FL00370,chen singh,chen.singh90@gmail.com,pakistan,nan,150.0,12.0,2022-10-22,4.8,39747.0,0,0
+FL00371,hassan singh,hassan.singh83@gmail.com,brazil,machine learning,30.0,10.0,2018-03-20,3.6,41604.0,1,1
+FL00372,michael okafor,michael.okafor78@gmail.com,pakistan,machine learning,25.0,1.0,2017-01-22,3.8,20897.0,0,1
+FL00373,ivan singh,ivan.singh26@outlook.com,philippines,react,75.0,6.0,2023-06-26,3.5,104869.0,1,0
+FL00374,bjorn rossi,bjorn.rossi4@outlook.com,pakistan,machine learning,120.0,13.0,2016-02-18,5.0,57030.0,1,0
+FL00375,hassan khan,hassan.khan56@gmail.com,pakistan,video editing,75.0,10.0,2018-10-20,4.1,143928.0,0,1
+FL00376,ravi brown,ravi.brown23@outlook.com,canada,ui/ux design,20.0,5.0,2021-06-19,4.0,75637.0,0,1
+FL00377,fatima sharma,fatima.sharma88@gmail.com,pakistan,copywriting,78.45,10.0,2022-08-26,3.8,121683.0,1,0
+FL00378,chen patel,chen.patel43@gmail.com,brazil,devops,60.0,5.0,2019-06-14,4.1,84435.0,0,0
+FL00379,priya williams,priya.williams35@yahoo.com,australia,ui/ux design,50.0,6.0,2015-04-04,3.9,112837.0,0,1
+FL00380,sergiy petrov,sergiy.petrov2@outlook.com,ukraine,seo,60.0,5.0,2018-12-23,4.9,73631.88,0,0
+FL00381,hassan khan,hassan.khan13@gmail.com,ukraine,javascript,120.0,0.0,2022-02-11,3.9,4744.0,1,1
+FL00382,zara petrov,zara.petrov67@yahoo.com,usa,machine learning,60.0,14.0,2018-12-11,4.0,74751.0,0,1
+FL00383,ivan petrov,ivan.petrov70@gmail.com,australia,php,15.0,0.0,2016-02-29,4.8,122120.0,0,0
+FL00384,maria garcia,maria.garcia54@outlook.com,germany,seo,12.0,7.0,2018-01-01,3.0,113227.0,0,0
+FL00385,deepak okafor,deepak.okafor67@gmail.com,uk,php,12.0,13.0,2023-03-02,2.8,73631.88,1,0
+FL00386,sofia okafor,sofia.okafor59@outlook.com,pakistan,python,100.0,2.0,2015-04-14,3.6,14065.0,1,0
+FL00387,sunita khan,sunita.khan10@yahoo.com,nigeria,php,15.0,3.0,2018-03-02,3.1,118695.0,1,1
+FL00388,sunita nguyen,sunita.nguyen70@gmail.com,pakistan,nan,78.45,1.0,2018-11-21,4.5,73631.88,1,0
+FL00389,ravi müller,ravi.müller96@yahoo.com,germany,react,30.0,6.0,2022-12-10,4.2,54457.0,0,0
+FL00390,ivan patel,ivan.patel46@yahoo.com,uk,wordpress,150.0,10.0,2021-10-23,3.4,139566.0,1,1
+FL00391,emily müller,emily.müller2@yahoo.com,ukraine,seo,20.0,2.0,2019-03-04,4.1,20114.0,1,0
+FL00392,amara silva,amara.silva16@gmail.com,uk,nan,78.45,1.0,,4.6,34856.0,0,1
+FL00393,ravi silva,ravi.silva39@yahoo.com,mexico,video editing,78.45,0.0,2016-01-25,3.3,73631.88,1,1
+FL00394,james sharma,james.sharma69@gmail.com,ukraine,php,150.0,7.0,2017-02-21,3.1,71255.0,1,1
+FL00395,olga yamamoto,olga.yamamoto74@yahoo.com,pakistan,ui/ux design,20.0,13.0,2022-06-30,4.5,54473.0,1,0
+FL00396,emily silva,emily.silva98@outlook.com,india,flutter,25.0,12.0,2016-03-04,3.5,119102.0,0,0
+FL00397,lena mbeki,lena.mbeki14@outlook.com,bangladesh,javascript,30.0,9.0,2022-04-09,3.8,113444.0,1,0
+FL00398,emily garcia,emily.garcia68@outlook.com,usa,python,120.0,7.32,2017-02-14,4.3,26984.0,0,0
+FL00399,juan williams,juan.williams37@outlook.com,uk,seo,15.0,8.0,2016-12-01,3.9,119832.0,1,0
+FL00400,james singh,james.singh1@yahoo.com,ukraine,python,20.0,2.0,2021-08-30,4.2,26712.0,1,1
+FL00401,sarah müller,sarah.müller91@yahoo.com,germany,ui/ux design,75.0,15.0,,5.0,37628.0,1,0
+FL00402,emily okafor,emily.okafor81@outlook.com,germany,seo,40.0,2.0,2022-03-01,3.9,72916.0,1,1
+FL00403,nan,sofia.müller88@gmail.com,ukraine,php,100.0,14.0,,4.4,14444.0,1,0
+FL00404,bjorn garcia,bjorn.garcia99@outlook.com,vietnam,python,12.0,11.0,2023-10-22,4.1,101750.0,1,1
+FL00405,amara mbeki,amara.mbeki18@yahoo.com,nigeria,data analysis,20.0,10.0,2016-07-24,4.3,94231.0,0,0
+FL00406,yuki petrov,yuki.petrov39@gmail.com,uk,copywriting,12.0,0.0,2015-12-29,4.4,136292.0,1,1
+FL00407,kofi garcia,kofi.garcia8@gmail.com,vietnam,flutter,15.0,3.0,2021-05-05,3.6,81998.0,1,0
+FL00408,maria patel,maria.patel65@yahoo.com,bangladesh,javascript,150.0,3.0,2017-10-09,3.1,32795.0,1,1
+FL00409,juan silva,juan.silva76@yahoo.com,vietnam,machine learning,120.0,6.0,2018-04-02,4.0,73631.88,1,0
+FL00410,fatima rossi,fatima.rossi68@yahoo.com,germany,copywriting,300.0,5.0,2020-08-23,4.4,103766.0,0,0
+FL00411,deepak nguyen,deepak.nguyen80@yahoo.com,canada,wordpress,120.0,8.0,2021-08-08,4.2,28138.0,1,0
+FL00412,sunita kumar,sunita.kumar78@outlook.com,australia,seo,15.0,8.0,2023-05-30,2.9,75496.0,1,0
+FL00413,olga patel,olga.patel1@yahoo.com,brazil,graphic design,25.0,0.0,2017-04-13,4.2,93950.0,0,0
+FL00414,sofia sharma,sofia.sharma16@yahoo.com,canada,seo,120.0,2.0,2016-06-04,4.9,76015.0,0,0
+FL00415,carlos patel,nan,mexico,wordpress,75.0,1.0,2021-07-15,3.5,19613.0,0,1
+FL00416,zara hassan,zara.hassan71@yahoo.com,australia,graphic design,12.0,2.0,2023-04-17,3.1,6121.0,1,0
+FL00417,carlos silva,carlos.silva17@yahoo.com,vietnam,seo,120.0,0.0,2015-08-02,4.0,108782.0,0,1
+FL00418,ravi kumar,ravi.kumar41@yahoo.com,australia,python,150.0,1.0,2016-06-03,4.2,94074.0,0,0
+FL00419,maria brown,maria.brown7@yahoo.com,philippines,ui/ux design,75.0,7.0,2018-07-30,4.1,73631.88,1,0
+FL00420,sarah brown,sarah.brown11@gmail.com,australia,copywriting,78.45,1.0,2021-08-06,4.0,73631.88,0,1
+FL00421,amara mbeki,amara.mbeki80@yahoo.com,mexico,wordpress,40.0,8.0,2017-06-05,4.6,149477.0,1,0
+FL00422,sarah brown,sarah.brown38@yahoo.com,canada,machine learning,25.0,7.32,2015-12-17,4.0,69841.0,0,0
+FL00423,olga johansson,olga.johansson11@yahoo.com,india,copywriting,12.0,15.0,2017-06-11,4.5,61493.0,1,0
+FL00424,priya brown,priya.brown46@outlook.com,vietnam,copywriting,100.0,7.0,2017-11-20,4.9,109543.0,0,1
+FL00425,bjorn müller,bjorn.müller4@gmail.com,ukraine,wordpress,40.0,13.0,2020-04-11,4.2,99810.0,1,0
+FL00426,nia johnson,nia.johnson71@outlook.com,uk,graphic design,120.0,2.0,2021-05-04,3.2,77325.0,1,0
+FL00427,sergiy johnson,sergiy.johnson47@gmail.com,ukraine,node.js,60.0,3.0,2019-12-28,4.4,107354.0,1,0
+FL00428,zara petrov,zara.petrov81@gmail.com,nan,data analysis,40.0,2.0,2020-08-30,4.0,73631.88,1,1
+FL00429,deepak okafor,deepak.okafor16@yahoo.com,vietnam,video editing,78.45,11.0,2022-10-25,3.5,76335.0,1,0
+FL00430,deepak singh,deepak.singh59@yahoo.com,germany,graphic design,100.0,2.0,2021-08-28,4.3,133728.0,0,1
+FL00431,kofi williams,kofi.williams79@yahoo.com,ukraine,graphic design,20.0,1.0,2019-10-30,4.0,37463.0,0,1
+FL00432,aarav silva,aarav.silva74@yahoo.com,india,wordpress,12.0,6.0,2015-04-16,2.9,36366.0,1,0
+FL00433,chen sharma,chen.sharma59@outlook.com,ukraine,graphic design,78.45,7.0,2018-09-01,4.2,9841.0,1,1
+FL00434,juan khan,juan.khan37@gmail.com,nigeria,seo,78.45,8.0,2020-06-07,4.6,110117.0,0,0
+FL00435,bjorn garcia,bjorn.garcia63@outlook.com,bangladesh,flutter,40.0,5.0,2017-08-07,3.7,122327.0,1,1
+FL00436,kofi silva,kofi.silva38@yahoo.com,uk,machine learning,20.0,15.0,2021-09-27,4.7,14821.0,1,0
+FL00437,sofia ahmed,sofia.ahmed79@outlook.com,nan,python,30.0,7.0,2021-01-04,3.3,95421.0,1,1
+FL00438,ali petrov,ali.petrov2@gmail.com,germany,node.js,78.45,7.32,2017-06-02,3.8,9354.0,1,0
+FL00439,ravi sharma,nan,pakistan,php,150.0,2.0,2020-08-28,4.0,72340.0,1,1
+FL00440,michael petrov,michael.petrov90@outlook.com,nigeria,copywriting,50.0,2.0,2021-04-16,4.0,61347.0,0,1
+FL00441,sunita johansson,sunita.johansson76@gmail.com,philippines,ui/ux design,20.0,2.0,2016-11-24,4.0,148693.0,0,1
+FL00442,ali johnson,ali.johnson72@outlook.com,bangladesh,graphic design,75.0,15.0,2018-08-11,3.1,73631.88,0,0
+FL00443,omar singh,omar.singh93@outlook.com,australia,video editing,60.0,13.0,2018-04-30,3.5,55712.0,1,0
+FL00444,aarav nguyen,aarav.nguyen1@yahoo.com,mexico,react,20.0,15.0,2019-09-02,4.5,90928.0,1,1
+FL00445,fatima hassan,fatima.hassan70@outlook.com,mexico,php,50.0,9.0,2023-08-08,4.0,73176.0,1,1
+FL00446,emily sharma,emily.sharma1@yahoo.com,canada,node.js,200.0,7.0,2021-11-23,3.6,101564.0,1,1
+FL00447,james brown,james.brown57@yahoo.com,ukraine,video editing,15.0,6.0,2022-12-23,3.7,50565.0,1,0
+FL00448,sofia garcia,sofia.garcia33@outlook.com,nan,copywriting,78.45,0.0,2018-09-07,4.4,8476.0,0,1
+FL00449,priya müller,priya.müller91@outlook.com,canada,react,60.0,3.0,2015-04-29,3.8,4871.0,1,1
+FL00450,maria singh,maria.singh86@gmail.com,pakistan,devops,100.0,11.0,2022-06-14,5.0,1345.0,0,1
+FL00451,ravi patel,ravi.patel41@outlook.com,canada,wordpress,150.0,14.0,2016-01-06,3.5,35295.0,0,0
+FL00452,kofi williams,kofi.williams38@yahoo.com,philippines,react,100.0,7.0,2018-01-22,4.0,101603.0,0,0
+FL00453,emily nguyen,emily.nguyen96@yahoo.com,uk,nan,120.0,9.0,2022-11-05,3.6,9373.0,1,0
+FL00454,ali patel,ali.patel60@outlook.com,mexico,python,20.0,10.0,2017-02-05,3.7,89072.0,0,1
+FL00455,zara petrov,zara.petrov76@gmail.com,mexico,devops,25.0,3.0,2023-09-06,4.0,24197.0,0,0
+FL00456,emily ahmed,emily.ahmed27@yahoo.com,canada,seo,20.0,4.0,2018-05-19,3.2,124312.0,0,0
+FL00457,yuki khan,yuki.khan87@outlook.com,australia,devops,15.0,7.32,2019-06-26,4.2,131953.0,0,1
+FL00458,emily kumar,emily.kumar50@outlook.com,mexico,javascript,120.0,15.0,2017-05-15,4.3,28400.0,1,1
+FL00459,james nguyen,james.nguyen59@gmail.com,usa,flutter,50.0,0.0,2016-06-11,3.5,88334.0,1,1
+FL00460,deepak singh,deepak.singh34@gmail.com,uk,video editing,78.45,2.0,2018-10-12,4.1,97308.0,1,0
+FL00461,fatima petrov,fatima.petrov5@outlook.com,vietnam,python,75.0,9.0,2015-03-13,4.4,64489.0,0,0
+FL00462,priya khan,priya.khan13@yahoo.com,nigeria,copywriting,12.0,11.0,2021-10-31,3.7,21283.0,0,1
+FL00463,sergiy kumar,sergiy.kumar56@yahoo.com,nigeria,data analysis,30.0,7.0,2019-03-13,4.5,70506.0,0,0
+FL00464,ravi hassan,ravi.hassan59@outlook.com,bangladesh,node.js,12.0,7.0,2018-03-24,4.1,131303.0,1,0
+FL00465,olga silva,olga.silva96@outlook.com,philippines,nan,12.0,2.0,2021-04-18,4.1,146367.0,1,0
+FL00466,sunita okafor,sunita.okafor38@gmail.com,pakistan,seo,100.0,3.0,2017-06-13,4.0,28192.0,1,0
+FL00467,lena okafor,lena.okafor58@gmail.com,ukraine,video editing,75.0,7.0,2020-07-19,3.2,8112.0,1,1
+FL00468,ali hassan,ali.hassan88@gmail.com,usa,wordpress,100.0,0.0,2017-10-20,2.9,63235.0,1,0
+FL00469,hassan johnson,hassan.johnson23@yahoo.com,philippines,javascript,12.0,14.0,,4.7,123762.0,1,0
+FL00470,hassan silva,hassan.silva93@gmail.com,mexico,machine learning,75.0,0.0,2023-02-21,4.2,29803.0,1,0
+FL00471,sarah patel,sarah.patel91@yahoo.com,pakistan,devops,25.0,6.0,2018-09-13,4.0,97716.0,1,1
+FL00472,sergiy yamamoto,sergiy.yamamoto89@gmail.com,germany,nan,100.0,15.0,2022-07-20,4.5,135980.0,0,0
+FL00473,maria müller,maria.müller22@outlook.com,egypt,react,100.0,10.0,2019-03-29,4.0,131254.0,1,1
+FL00474,fatima kumar,fatima.kumar65@gmail.com,vietnam,php,75.0,6.0,2019-06-21,3.7,48389.0,1,0
+FL00475,carlos brown,carlos.brown9@gmail.com,germany,copywriting,20.0,8.0,2016-01-10,3.8,22359.0,1,1
+FL00476,lena patel,lena.patel25@outlook.com,nigeria,copywriting,30.0,13.0,2023-01-28,3.8,79048.0,0,0
+FL00477,sunita ahmed,sunita.ahmed66@yahoo.com,egypt,video editing,75.0,14.0,2020-06-20,4.1,81030.0,1,1
+FL00478,ali ahmed,ali.ahmed21@outlook.com,egypt,data analysis,100.0,4.0,2017-02-25,4.2,80091.0,1,1
+FL00479,sofia okafor,sofia.okafor52@gmail.com,vietnam,machine learning,78.45,13.0,2023-07-21,3.9,100745.0,0,0
+FL00480,sunita sharma,sunita.sharma93@outlook.com,bangladesh,wordpress,75.0,8.0,2017-09-22,4.5,27091.0,1,1
+FL00481,bjorn sharma,bjorn.sharma20@gmail.com,canada,devops,30.0,4.0,2018-08-22,3.9,82803.0,1,0
+FL00482,fatima nguyen,fatima.nguyen33@outlook.com,bangladesh,react,40.0,14.0,2017-03-26,3.7,4747.0,1,1
+FL00483,olga sharma,olga.sharma72@gmail.com,ukraine,graphic design,75.0,10.0,2023-03-28,3.6,40399.0,1,0
+FL00484,nan,nan,ukraine,copywriting,75.0,13.0,2019-07-03,4.2,93468.0,1,1
+FL00485,aarav johansson,aarav.johansson17@outlook.com,australia,react,25.0,3.0,2021-10-01,4.0,115749.0,0,1
+FL00486,hassan yamamoto,hassan.yamamoto76@gmail.com,germany,php,150.0,1.0,2019-06-24,3.6,83568.0,1,1
+FL00487,aarav singh,aarav.singh13@yahoo.com,ukraine,copywriting,30.0,14.0,2019-04-06,4.1,73631.88,0,0
+FL00488,yuki kumar,yuki.kumar95@outlook.com,india,react,75.0,15.0,2015-09-08,3.9,29176.0,1,0
+FL00489,ivan nguyen,ivan.nguyen61@gmail.com,uk,flutter,40.0,8.0,2015-04-27,4.1,125199.0,0,1
+FL00490,juan brown,juan.brown79@outlook.com,vietnam,wordpress,1200.0,15.0,2016-06-09,4.5,25348.0,1,1
+FL00491,ali yamamoto,ali.yamamoto35@gmail.com,bangladesh,data analysis,20.0,9.0,2022-06-30,4.1,62845.0,1,1
+FL00492,hassan williams,hassan.williams16@outlook.com,canada,php,40.0,12.0,2020-01-31,4.0,90251.0,1,1
+FL00493,sunita johnson,sunita.johnson92@yahoo.com,uk,flutter,12.0,4.0,2020-02-17,4.5,58658.0,1,0
+FL00494,amara johansson,amara.johansson68@gmail.com,brazil,wordpress,20.0,1.0,2019-01-25,3.6,53504.0,0,1
+FL00495,chen garcia,chen.garcia86@yahoo.com,brazil,seo,60.0,4.0,2015-01-02,5.0,42297.0,0,1
+FL00496,deepak okafor,deepak.okafor87@gmail.com,vietnam,ui/ux design,15.0,8.0,2016-05-20,3.8,115390.0,1,1
+FL00497,bjorn brown,bjorn.brown15@outlook.com,canada,react,15.0,10.0,2015-06-17,3.5,130138.0,0,0
+FL00498,bjorn brown,bjorn.brown33@yahoo.com,usa,php,30.0,8.0,2022-03-07,3.6,147476.0,0,0
+FL00499,sofia patel,sofia.patel31@yahoo.com,vietnam,devops,78.45,3.0,2021-06-15,4.1,113693.0,1,0
+FL00500,amara singh,amara.singh46@outlook.com,india,flutter,40.0,13.0,2023-03-06,3.9,143965.0,1,0
