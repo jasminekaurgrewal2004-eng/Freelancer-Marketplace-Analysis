@@ -39,13 +39,7 @@ Highlights:
 - `clean_reviews.csv` appears to contain transaction-like schema instead of review-specific fields.
 - Missing values are still present in cleaned files (for example `platform_fee_pct`, `payment_date`, and identifier fields in transaction/review datasets).
 
-These are important to fix before advanced modeling or KPI reporting.
-
-## How to Use
-
-1. Open `dataset_cleaning.ipynb` to review and refine the cleaning logic.
-2. Re-run cleaning to produce corrected `clean_*.csv` outputs.
-3. Validate schema for each dataset against expected columns.
-4. Use `INSIGHTS.md` as a baseline for progress tracking after fixes.
+## Power BI Dashboard image:
+<img width="911" height="513" alt="image" src="https://github.com/user-attachments/assets/2f4e4cf3-6411-4914-9d4c-b2e4de7e7fef" />
 
 
